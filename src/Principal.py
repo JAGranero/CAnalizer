@@ -3,12 +3,14 @@ import os
 from antlr4 import *
 from GrammarCLexer import GrammarCLexer
 from GrammarCParser import GrammarCParser
-
+sys.stdout = open('salida.txt', 'w')
+print('test')
 
 def main(argv):
 
     # Crear para la salida del parser
     file = open("myOutFile.txt", "w")
+    sys.stdout = open('file', 'w')
 
     # print(argv[1])
 
@@ -20,13 +22,14 @@ def main(argv):
             file.write(nombre_fichero)
             file.write("\n")
             if nombre_fichero.endswith(".c"):
-                file.write("             -->Entre\n")
-                input_stream = FileStream(nombre_directorio+"\\"+nombre_fichero)
-                lexer = GrammarCLexer(input_stream)
-                stream = CommonTokenStream(lexer)
-                parser = GrammarCParser(stream)
-                tree = parser.compilationUnit()
-                file.write("             -->Paso\n")
+                try:
+                    input_stream = FileStream(nombre_directorio+"\\"+nombre_fichero)
+                    lexer = GrammarCLexer(input_stream)
+                    stream = CommonTokenStream(lexer)
+                    parser = GrammarCParser(stream)
+                    tree = parser.compilationUnit()
+                except:
+                    print("error en file -> "+nombre_directorio+"\\"+nombre_fichero)
 
     file.close()
 
