@@ -1,0 +1,764 @@
+tuxpaint-0.9.24
+   dummy.c
+line 3:0 token recognition error at: '#if'
+line 5:0 token recognition error at: '#e'
+line 9:0 token recognition error at: '#if'
+line 11:0 token recognition error at: '#e'
+line 13:0 token recognition error at: '#if'
+line 15:0 token recognition error at: '#e'
+line 17:38 no viable alternative at input 'ndifintmain(intargcUNUSED,char*argv[]UNUSED'
+line 17:38 extraneous input 'UNUSED' expecting ')'
+tuxpaint-0.9.24\custom
+tuxpaint-0.9.24\data
+tuxpaint-0.9.24\data\brushes
+tuxpaint-0.9.24\data\fonts
+tuxpaint-0.9.24\data\images
+tuxpaint-0.9.24\data\images\shapes
+tuxpaint-0.9.24\data\images\tools
+tuxpaint-0.9.24\data\images\tux
+tuxpaint-0.9.24\data\images\ui
+tuxpaint-0.9.24\data\sounds
+tuxpaint-0.9.24\docs
+tuxpaint-0.9.24\docs\COPYING
+tuxpaint-0.9.24\docs\COPYING\html
+tuxpaint-0.9.24\docs\de
+tuxpaint-0.9.24\docs\en
+tuxpaint-0.9.24\docs\en\html
+tuxpaint-0.9.24\docs\es
+tuxpaint-0.9.24\docs\es\html
+tuxpaint-0.9.24\docs\fr
+tuxpaint-0.9.24\docs\fr\html
+tuxpaint-0.9.24\docs\fr\html\images
+tuxpaint-0.9.24\docs\fr\html\images\captures
+tuxpaint-0.9.24\docs\gl
+tuxpaint-0.9.24\docs\gl\html
+tuxpaint-0.9.24\docs\gl\html\images
+tuxpaint-0.9.24\docs\html
+tuxpaint-0.9.24\docs\html\images
+tuxpaint-0.9.24\docs\it
+tuxpaint-0.9.24\docs\it\html
+tuxpaint-0.9.24\docs\ja
+tuxpaint-0.9.24\docs\ja\html
+tuxpaint-0.9.24\docs\ko
+tuxpaint-0.9.24\docs\nl
+tuxpaint-0.9.24\docs\nl\html
+tuxpaint-0.9.24\docs\nn
+tuxpaint-0.9.24\docs\pl
+tuxpaint-0.9.24\docs\pt_br
+tuxpaint-0.9.24\docs\ru
+tuxpaint-0.9.24\docs\ru\html
+tuxpaint-0.9.24\docs\uk
+tuxpaint-0.9.24\docs\zh_cn
+tuxpaint-0.9.24\docs\zh_cn\html
+tuxpaint-0.9.24\docs\zh_tw
+tuxpaint-0.9.24\docs\zh_tw\html
+tuxpaint-0.9.24\fonts
+tuxpaint-0.9.24\fonts\locale
+tuxpaint-0.9.24\fonts\locale\ar_docs
+tuxpaint-0.9.24\fonts\locale\bo_docs
+tuxpaint-0.9.24\fonts\locale\el_docs
+tuxpaint-0.9.24\fonts\locale\gu_docs
+tuxpaint-0.9.24\fonts\locale\he_docs
+tuxpaint-0.9.24\fonts\locale\hi_docs
+tuxpaint-0.9.24\fonts\locale\ja_docs
+tuxpaint-0.9.24\fonts\locale\ka_docs
+tuxpaint-0.9.24\fonts\locale\ta_docs
+tuxpaint-0.9.24\fonts\locale\te_docs
+tuxpaint-0.9.24\fonts\locale\th_docs
+tuxpaint-0.9.24\fonts\locale\vi_docs
+tuxpaint-0.9.24\fonts\locale\zh_tw_docs
+tuxpaint-0.9.24\haiku
+tuxpaint-0.9.24\hildon
+tuxpaint-0.9.24\hildon\DEBIAN
+tuxpaint-0.9.24\im
+tuxpaint-0.9.24\macos
+tuxpaint-0.9.24\maemo
+tuxpaint-0.9.24\maemo\debian
+tuxpaint-0.9.24\magic
+tuxpaint-0.9.24\magic\docs
+   tp_magic_example.c
+line 12:0 token recognition error at: '#include <string.h>             // For "strdup()"\n'
+line 13:0 token recognition error at: '#include <libintl.h>            // For "gettext()"\n'
+line 15:0 token recognition error at: '#include "tp_magic_api.h"       // Tux Paint "Magic" tool API header\n'
+line 16:0 token recognition error at: '#include "SDL_image.h"          // For IMG_Load(), to load our PNG icon\n'
+line 17:0 token recognition error at: '#include "SDL_mixer.h"          // For Mix_LoadWAV(), to load our sound effects\n'
+tuxpaint-0.9.24\magic\docs\en
+tuxpaint-0.9.24\magic\docs\en\html
+tuxpaint-0.9.24\magic\icons
+tuxpaint-0.9.24\magic\magic-docs
+tuxpaint-0.9.24\magic\magic-docs\en
+tuxpaint-0.9.24\magic\magic-docs\en\html
+tuxpaint-0.9.24\magic\magic-docs\src
+tuxpaint-0.9.24\magic\sounds
+tuxpaint-0.9.24\magic\src
+   alien.c
+line 42:0 token recognition error at: '#if'
+line 44:0 token recognition error at: '#e'
+   blind.c
+   blocks_chalk_drip.c
+   blur.c
+   bricks.c
+line 34:0 token recognition error at: '#include <stdlib.h>             /* For RAND_MAX */\n'
+   calligraphy.c
+   cartoon.c
+   confetti.c
+line 1:0 token recognition error at: '#include <time.h>               //For time()\n'
+   distortion.c
+line 34:0 token recognition error at: '#include <string.h>             // For "strdup()"\n'
+line 36:0 token recognition error at: '#include "tp_magic_api.h"       // Tux Paint "Magic" tool API header\n'
+line 37:0 token recognition error at: '#include "SDL_image.h"          // For IMG_Load(), to load our PNG icon\n'
+line 38:0 token recognition error at: '#include "SDL_mixer.h"          // For Mix_LoadWAV(), to load our sound effects\n'
+   emboss.c
+   fade_darken.c
+   fisheye.c
+   flower.c
+   foam.c
+   fold.c
+   fretwork.c
+   glasstile.c
+line 324:0 missing '}' at '<EOF>'
+   grass.c
+error en file -> tuxpaint-0.9.24\magic\src\grass.c
+   halftone.c
+   kalidescope.c
+   light.c
+   metalpaint.c
+   mirror_flip.c
+   mosaic.c
+line 44:0 token recognition error at: '#if'
+line 46:0 token recognition error at: '#e'
+   mosaic_shaped.c
+line 48:0 token recognition error at: '#if'
+line 50:0 token recognition error at: '#e'
+   negative.c
+   noise.c
+line 42:0 token recognition error at: '#if'
+line 44:0 token recognition error at: '#e'
+   perspective.c
+line 45:0 token recognition error at: '#if'
+line 47:0 token recognition error at: '#e'
+   puzzle.c
+line 30:0 token recognition error at: '#include <time.h>               //for time()\n'
+   rails.c
+   rain.c
+line 42:0 token recognition error at: '#if'
+line 44:0 token recognition error at: '#e'
+   rainbow.c
+   realrainbow.c
+   ripples.c
+   rosette.c
+line 35:0 token recognition error at: '#include <math.h>               //for sin, cos, ...\n'
+   sharpen.c
+line 41:0 token recognition error at: '#if'
+line 43:0 token recognition error at: '#e'
+   shift.c
+   smudge.c
+   snow.c
+line 42:0 token recognition error at: '#if'
+line 44:0 token recognition error at: '#e'
+   string.c
+   tint.c
+line 45:0 token recognition error at: '#if'
+line 47:0 token recognition error at: '#e'
+   toothpaste.c
+line 42:0 token recognition error at: '#if'
+line 44:0 token recognition error at: '#e'
+   tornado.c
+   tv.c
+   waves.c
+   xor.c
+tuxpaint-0.9.24\obj
+tuxpaint-0.9.24\osk
+tuxpaint-0.9.24\Resources
+tuxpaint-0.9.24\Resources\share
+tuxpaint-0.9.24\Resources\share\tuxpaint
+tuxpaint-0.9.24\Resources\share\tuxpaint\brushes
+tuxpaint-0.9.24\Resources\share\tuxpaint\fonts
+tuxpaint-0.9.24\Resources\share\tuxpaint\images
+tuxpaint-0.9.24\Resources\share\tuxpaint\images\shapes
+tuxpaint-0.9.24\Resources\share\tuxpaint\images\tools
+tuxpaint-0.9.24\Resources\share\tuxpaint\images\tux
+tuxpaint-0.9.24\Resources\share\tuxpaint\images\ui
+tuxpaint-0.9.24\Resources\share\tuxpaint\sounds
+tuxpaint-0.9.24\src
+   cursor.c
+line 39:0 token recognition error at: '#if'
+line 41:0 token recognition error at: '#e'
+line 43:0 token recognition error at: '#e'
+line 45:0 token recognition error at: '#if'
+line 48:0 token recognition error at: '#e'
+line 50:0 token recognition error at: '#e'
+line 45:23 no viable alternative at input 'ndifdefined(NOKIA_770)||'
+line 45:23 extraneous input '||' expecting {'__extension__', '__m128', '__m128d', '__m128i', '__typeof__', '__inline__', '__stdcall', '__declspec', '__attribute__', 'auto', 'char', 'const', 'd
+ouble', 'enum', 'extern', 'float', 'inline', 'int', 'long', 'register', 'restrict', 'short', 'signed', 'static', 'struct', 'typedef', 'union', 'unsigned', 'void', 'volatile', '_Alignas', '_Ato
+mic', '_Bool', '_Complex', '_Noreturn', '_Static_assert', '_Thread_local', '{', Identifier}
+line 45:44 mismatched input '||' expecting ';'
+line 47:0 missing ';' at 'int'
+line 58:0 missing ';' at '{'
+   dirwalk.c
+line 27:0 token recognition error at: '#if'
+line 29:0 token recognition error at: '#e'
+line 119:0 token recognition error at: '#if'
+line 121:0 token recognition error at: '#e'
+line 128:0 token recognition error at: '#if'
+line 130:0 token recognition error at: '#e'
+line 146:0 token recognition error at: '#if'
+line 153:0 token recognition error at: '#e'
+line 208:90 token recognition error at: '"`\%'
+line 208:95 token recognition error at: '@'
+line 208:96 token recognition error at: '$'
+line 208:98 token recognition error at: '#{'
+line 208:105 token recognition error at: '"));\n'
+line 220:0 token recognition error at: '#if'
+line 225:0 token recognition error at: '#e'
+line 228:0 token recognition error at: '#if'
+line 231:0 token recognition error at: '#e'
+line 241:0 token recognition error at: '#if'
+line 244:0 token recognition error at: '#e'
+line 250:0 token recognition error at: '#if'
+line 253:0 token recognition error at: '#e'
+line 326:0 token recognition error at: '#if'
+line 342:0 token recognition error at: '#e'
+line 343:0 token recognition error at: '#w'
+line 344:0 token recognition error at: '#e'
+line 346:0 token recognition error at: '#if'
+line 348:0 token recognition error at: '#e'
+line 350:0 token recognition error at: '#e'
+line 414:0 token recognition error at: '#if'
+line 421:0 token recognition error at: '#e'
+line 423:0 token recognition error at: '#e'
+line 120:17 no viable alternative at input '("Loading font: %s  (locale is: %s)\n"'
+line 122:10 no viable alternative at input 'ndifif'
+line 129:21 no viable alternative at input '("checking \"%s\" vs \"%s\"\n"'
+line 131:14 no viable alternative at input 'ndifif'
+line 208:97 no viable alternative at input 'charset_works(font,gettext(_~'
+line 208:97 no viable alternative at input 'gettext(_~'
+line 221:18 missing ';' at 'user_font_styles'
+line 230:51 mismatched input '->' expecting ';'
+line 235:33 no viable alternative at input 'ndifnum_font_styles++'
+line 243:18 missing ';' at 'printf'
+line 245:16 no viable alternative at input 'ndif}'
+line 248:10 mismatched input 'else' expecting '}'
+line 254:12 no viable alternative at input 'ndif}'
+line 255:8 mismatched input '}' expecting <EOF>
+   fill.c
+   fonts.c
+line 26:0 token recognition error at: '#if'
+line 28:0 token recognition error at: '#e'
+line 36:0 token recognition error at: '#if'
+line 38:0 token recognition error at: '#e'
+line 66:0 token recognition error at: '#if'
+line 68:0 token recognition error at: '#e'
+line 70:0 token recognition error at: '#if'
+line 72:0 token recognition error at: '#e'
+line 74:0 token recognition error at: '#if'
+line 77:0 token recognition error at: '#e'
+line 91:0 token recognition error at: '#if'
+line 99:0 token recognition error at: '#if'
+line 101:0 token recognition error at: '#e'
+line 103:0 token recognition error at: '#e'
+line 105:0 token recognition error at: '#if'
+line 107:0 token recognition error at: '#e'
+line 110:0 token recognition error at: '#e'
+line 112:0 token recognition error at: '#e'
+line 114:0 token recognition error at: '#if'
+line 116:0 token recognition error at: '#e'
+line 118:0 token recognition error at: '#if'
+line 121:0 token recognition error at: '#if'
+line 122:0 token recognition error at: '#e'
+line 123:0 token recognition error at: '#e'
+line 124:0 token recognition error at: '#e'
+line 125:0 token recognition error at: '#e'
+line 126:0 token recognition error at: '#e'
+line 127:0 token recognition error at: '#e'
+line 129:0 token recognition error at: '#e'
+line 132:0 token recognition error at: '#if'
+line 134:0 token recognition error at: '#e'
+line 136:0 token recognition error at: '#e'
+line 159:0 token recognition error at: '#if'
+line 161:0 token recognition error at: '#e'
+line 164:0 token recognition error at: '#if'
+line 181:0 token recognition error at: '#if'
+line 199:0 token recognition error at: '#e'
+line 224:0 token recognition error at: '#e'
+line 228:0 token recognition error at: '#if'
+line 230:0 token recognition error at: '#e'
+line 234:0 token recognition error at: '#if'
+line 235:0 token recognition error at: '#if'
+line 237:0 token recognition error at: '#e'
+line 241:0 token recognition error at: '#if'
+line 243:0 token recognition error at: '#e'
+line 246:0 token recognition error at: '#e'
+line 248:0 token recognition error at: '#if'
+line 251:0 token recognition error at: '#e'
+line 273:0 token recognition error at: '#if'
+line 275:0 token recognition error at: '#e'
+line 277:0 token recognition error at: '#if'
+line 279:0 token recognition error at: '#e'
+line 281:0 token recognition error at: '#if'
+line 290:0 token recognition error at: '#if'
+line 292:0 token recognition error at: '#e'
+line 297:0 token recognition error at: '#if'
+line 299:0 token recognition error at: '#e'
+line 306:0 token recognition error at: '#if'
+line 309:0 token recognition error at: '#e'
+line 313:0 token recognition error at: '#e'
+line 317:0 token recognition error at: '#if'
+line 320:0 token recognition error at: '#e'
+line 341:0 token recognition error at: '#if'
+line 344:0 token recognition error at: '#e'
+line 348:0 token recognition error at: '#if'
+line 350:0 token recognition error at: '#e'
+line 356:0 token recognition error at: '#if'
+line 358:0 token recognition error at: '#e'
+line 363:0 token recognition error at: '#if'
+line 366:0 token recognition error at: '#e'
+line 372:0 token recognition error at: '#if'
+line 440:0 token recognition error at: '#e'
+line 453:0 token recognition error at: '#if'
+line 464:0 token recognition error at: '#e'
+line 573:0 token recognition error at: '#if'
+line 576:0 token recognition error at: '#e'
+line 583:0 token recognition error at: '#if'
+line 588:0 token recognition error at: '#e'
+line 792:0 token recognition error at: '#if'
+line 795:0 token recognition error at: '#e'
+line 905:0 token recognition error at: '#if'
+line 908:0 token recognition error at: '#e'
+line 926:0 token recognition error at: '#if'
+line 929:0 token recognition error at: '#e'
+line 958:0 token recognition error at: '#if'
+line 962:0 token recognition error at: '#e'
+line 966:0 token recognition error at: '#e'
+line 979:0 token recognition error at: '#e'
+line 985:0 token recognition error at: '#e'
+line 989:0 token recognition error at: '#e'
+line 999:0 token recognition error at: '#e'
+line 1006:0 token recognition error at: '#if'
+line 1010:0 token recognition error at: '#e'
+line 1012:0 token recognition error at: '#if'
+line 1015:0 token recognition error at: '#e'
+line 1019:0 token recognition error at: '#if'
+line 1022:0 token recognition error at: '#e'
+line 1031:0 token recognition error at: '#if'
+line 1049:0 token recognition error at: '#if'
+line 1055:0 token recognition error at: '#e'
+line 1098:0 token recognition error at: '#if'
+line 1100:0 token recognition error at: '#e'
+line 1191:0 token recognition error at: '#if'
+line 1193:0 token recognition error at: '#e'
+line 1234:0 token recognition error at: '#if'
+line 1236:0 token recognition error at: '#e'
+line 1280:0 token recognition error at: '#e'
+line 1293:0 token recognition error at: '#if'
+line 1296:0 token recognition error at: '#e'
+line 1300:0 token recognition error at: '#if'
+line 1303:0 token recognition error at: '#e'
+line 1309:0 token recognition error at: '#if'
+line 1312:0 token recognition error at: '#e'
+line 1316:0 token recognition error at: '#if'
+line 1319:0 token recognition error at: '#e'
+line 1323:0 token recognition error at: '#if'
+line 1326:0 token recognition error at: '#e'
+line 1333:0 token recognition error at: '#if'
+line 1337:0 token recognition error at: '#e'
+line 1341:0 token recognition error at: '#if'
+line 1344:0 token recognition error at: '#e'
+line 1387:0 token recognition error at: '#if'
+line 1390:0 token recognition error at: '#e'
+line 1405:0 token recognition error at: '#if'
+line 1408:0 token recognition error at: '#e'
+line 1416:0 token recognition error at: '#if'
+line 1419:0 token recognition error at: '#e'
+line 1423:0 token recognition error at: '#if'
+line 1426:0 token recognition error at: '#e'
+line 1431:0 token recognition error at: '#if'
+line 1434:0 token recognition error at: '#e'
+line 1509:0 token recognition error at: '#if'
+line 1511:0 token recognition error at: '#e'
+line 1527:0 token recognition error at: '#if'
+line 1535:0 token recognition error at: '#e'
+line 1545:0 token recognition error at: '#if'
+line 1548:0 token recognition error at: '#e'
+line 1575:0 token recognition error at: '#if'
+line 1578:0 token recognition error at: '#e'
+line 1589:0 token recognition error at: '#if'
+line 1592:0 token recognition error at: '#e'
+line 1596:0 token recognition error at: '#if'
+line 1604:0 token recognition error at: '#e'
+line 1609:0 token recognition error at: '#if'
+line 1611:0 token recognition error at: '#e'
+line 1620:0 token recognition error at: '#if'
+line 1623:0 token recognition error at: '#e'
+line 1627:0 token recognition error at: '#if'
+line 1635:0 token recognition error at: '#e'
+line 1640:0 token recognition error at: '#if'
+line 1642:0 token recognition error at: '#e'
+line 1648:0 token recognition error at: '#if'
+line 1677:0 token recognition error at: '#e'
+line 121:4 no viable alternative at input 'ndifndefNO_SDLPANGO!'
+line 122:7 no viable alternative at input 'rror"---------------------------------------------------"'
+line 166:0 missing ';' at '{'
+line 182:6 no viable alternative at input 'def__APPLE__if'
+line 221:6 no viable alternative at input 'ndifreturn'
+line 229:9 no viable alternative at input '("TuxPaint_Font_CloseFont step 1 (%p)\n"'
+line 231:2 no viable alternative at input 'ndifif'
+line 236:9 no viable alternative at input '("TuxPaint_Font_CloseFont step 2 (%p, %d)\n"'
+line 238:2 no viable alternative at input 'ndifif'
+line 242:32 no viable alternative at input '(tpf->'
+line 244:11 no viable alternative at input 'ndiftpf->'
+line 249:9 no viable alternative at input '("TuxPaint_Font_CloseFont step 3 (%p, %d)\n"'
+line 252:2 no viable alternative at input 'ndifif'
+line 278:9 no viable alternative at input '("OpenFont(pango:\"%s\", ttf:\"%s\")\n"'
+line 283:2 no viable alternative at input 'ndifndefNO_SDLPANGOif'
+line 291:13 no viable alternative at input '("Creating context: \"%s\"\n"'
+line 294:9 no viable alternative at input 'ndiftpf->'
+line 298:17 no viable alternative at input '("Failed to load %s\n"'
+line 307:13 no viable alternative at input '("TuxPaint_Font_OpenFont() done\n"'
+line 311:6 no viable alternative at input 'ndifreturn'
+line 315:2 no viable alternative at input 'ndifif'
+line 318:13 no viable alternative at input '("Opening TTF\n"'
+line 342:13 no viable alternative at input '("Loaded %s: %d->%d\n"'
+line 346:6 no viable alternative at input 'ndifif'
+line 349:17 no viable alternative at input '("Failed to load %s: %s\n"'
+line 357:17 no viable alternative at input '("Succeeded loading %s\n"'
+line 359:13 no viable alternative at input 'ndiftpf->'
+line 364:9 no viable alternative at input '("TuxPaint_Font_OpenFont() done\n"'
+line 368:2 no viable alternative at input 'ndifreturn'
+line 455:2 missing ';' at 'if'
+line 575:10 missing ';' at 'printf'
+line 577:10 no viable alternative at input 'ndifcontinue'
+line 585:10 missing ';' at 'printf'
+line 589:10 no viable alternative at input 'ndifcontinue'
+line 794:10 missing ';' at 'printf'
+line 796:8 no viable alternative at input 'ndif}'
+line 907:2 missing ';' at 'printf'
+line 909:2 no viable alternative at input 'ndifwhile'
+line 928:2 missing ';' at 'printf'
+line 930:0 no viable alternative at input 'ndif}'
+line 954:46 no viable alternative at input 'loadfonts_locale_filter(screen,DATA_PREFIX"fonts"'
+line 954:46 missing ';' at '"fonts"'
+line 954:61 extraneous input ')' expecting ';'
+line 963:6 missing ';' at 'loadfonts'
+line 967:6 missing ';' at 'dev_t'
+line 980:6 missing ';' at 'loadfonts'
+line 986:6 missing ';' at 'loadfonts'
+line 990:24 no viable alternative at input 'loadfonts(screen,"/usr/share/feh/fonts"'
+line 1000:4 no viable alternative at input 'ndif}'
+line 1013:9 no viable alternative at input '("Grouping fonts...\n"'
+line 1020:9 no viable alternative at input '("Finished loading the fonts\n"'
+line 1051:2 no viable alternative at input 'ndef__HAIKU__if'
+line 1099:9 no viable alternative at input '("Sending %u bytes with %u families.\n"'
+line 1101:10 mismatched input '=' expecting ';'
+line 1192:13 no viable alternative at input '("read: fd=%d buf_fill=%u buf_size=%u rc=%ld\n"'
+line 1195:6 no viable alternative at input 'ndifif'
+line 1235:9 no viable alternative at input '("Got %u bytes with %u families.\n"'
+line 1294:9 no viable alternative at input '("\ngetfonthandle(%d)...\n"'
+line 1298:2 no viable alternative at input 'ndifif'
+line 1301:13 no viable alternative at input '("getfonthandle(%d) points to a NULL family\n"'
+line 1304:6 no viable alternative at input 'ndifreturn'
+line 1310:13 no viable alternative at input '("Setting 'name' to fi->filename[%d (0x%x)]\n"'
+line 1317:13 no viable alternative at input '("Which is: %s\n"'
+line 1320:4 no viable alternative at input 'ndif}'
+line 1324:13 no viable alternative at input '("fi->filename is NULL\n"'
+line 1334:13 no viable alternative at input '("fi->handle was set (0x%x)\n"'
+line 1338:6 no viable alternative at input 'ndifreturn'
+line 1342:9 no viable alternative at input '("fi->handle was not yet set\n"'
+line 1369:2 no viable alternative at input 'ndif{'
+line 1388:15 no viable alternative at input '("name is still NULL\n"'
+line 1391:8 no viable alternative at input 'ndifreturn'
+line 1406:13 no viable alternative at input '("fi->handle is NULL!\n"'
+line 1409:6 no viable alternative at input 'ndifreturn'
+line 1417:17 no viable alternative at input '("fi->handle->ttf_font is NULL!\n"'
+line 1420:10 no viable alternative at input 'ndifreturn'
+line 1424:13 no viable alternative at input '("calling TTF_SetFontStyle(0x%x)\n"'
+line 1428:25 no viable alternative at input '(fi->'
+line 1432:2 no viable alternative at input 'ndefNO_SDLPANGOif'
+line 1436:2 no viable alternative at input 'ndifreturn'
+line 1528:6 no viable alternative at input 'ndefNO_SDLPANGOif'
+line 1538:6 no viable alternative at input 'ndifif'
+line 1547:10 missing ';' at 'printf'
+line 1549:10 no viable alternative at input 'ndifgoto'
+line 1576:13 no viable alternative at input '("TuxPaint_Font_FontHeight() received NULL\n"'
+line 1579:6 no viable alternative at input 'ndifreturn'
+line 1590:13 no viable alternative at input '("TuxPaint_Font_FontFaceFamilyName() received NULL\n"'
+line 1593:6 no viable alternative at input 'ndifreturn'
+line 1597:2 no viable alternative at input 'ndefNO_SDLPANGOif'
+line 1606:2 no viable alternative at input 'ndifif'
+line 1610:9 no viable alternative at input '("TuxPaint_Font_FontFaceFamilyName() is confused\n"'
+line 1613:2 no viable alternative at input 'ndifreturn'
+line 1621:13 no viable alternative at input '("TuxPaint_Font_FontFaceStyleName() received NULL\n"'
+line 1624:6 no viable alternative at input 'ndifreturn'
+line 1628:2 no viable alternative at input 'ndefNO_SDLPANGOif'
+line 1637:2 no viable alternative at input 'ndifif'
+line 1641:9 no viable alternative at input '("TuxPaint_Font_FontFaceStyleName() is confused\n"'
+line 1644:2 no viable alternative at input 'ndifreturn'
+line 1678:0 no viable alternative at input 'ndif'
+   get_fname.c
+   i18n.c
+line 39:0 token recognition error at: '#if'
+line 41:0 token recognition error at: '#e'
+line 43:0 token recognition error at: '#if'
+line 45:0 token recognition error at: '#e'
+line 48:0 token recognition error at: '#e'
+line 223:0 token recognition error at: '#if'
+line 225:0 token recognition error at: '#e'
+line 769:0 token recognition error at: '#if'
+line 785:0 token recognition error at: '#e'
+line 950:0 token recognition error at: '#if'
+line 951:0 token recognition error at: '#u'
+line 952:0 token recognition error at: '#e'
+line 964:0 token recognition error at: '#if'
+line 966:0 token recognition error at: '#e'
+line 972:0 token recognition error at: '#e'
+line 1019:0 token recognition error at: '#if'
+line 1021:0 token recognition error at: '#e'
+line 1025:0 token recognition error at: '#if'
+line 1027:0 token recognition error at: '#e'
+line 1031:0 token recognition error at: '#if'
+line 1033:0 token recognition error at: '#e'
+line 1036:0 token recognition error at: '#if'
+line 1039:0 token recognition error at: '#e'
+line 1043:0 token recognition error at: '#e'
+line 1078:0 token recognition error at: '#if'
+line 1081:0 token recognition error at: '#e'
+line 1131:0 token recognition error at: '#if'
+line 1135:0 token recognition error at: '#e'
+line 1139:0 token recognition error at: '#if'
+line 1141:0 token recognition error at: '#e'
+line 1159:0 token recognition error at: '#if'
+line 1162:0 token recognition error at: '#e'
+line 1180:0 token recognition error at: '#if'
+line 1188:0 token recognition error at: '#e'
+line 223:7 no viable alternative at input '{defNO_SDLPANGO'
+line 226:2 mismatched input '-' expecting ';'
+line 786:0 no viable alternative at input 'ndif}'
+line 965:22 no viable alternative at input 'setenv(name,value,1'
+line 973:0 no viable alternative at input 'ndif}'
+line 987:0 missing ';' at '{'
+line 1020:9 no viable alternative at input '("Locale BEFORE is: %s\n"'
+line 1022:20 no viable alternative at input 'setlocale(LC_ALL,""'
+line 1026:9 no viable alternative at input '("Locale AFTER is: %s\n"'
+line 1029:17 no viable alternative at input '("tuxpaint"'
+line 1032:2 missing ';' at 'bind_textdomain_codeset'
+line 1034:13 no viable alternative at input '("tuxpaint"'
+line 1037:2 no viable alternative at input 'def_WIN32if'
+line 1045:2 no viable alternative at input 'ndifif'
+line 1079:6 no viable alternative at input 'def_WIN32if'
+line 1083:6 no viable alternative at input 'ndifif'
+line 1132:18 no viable alternative at input 'fprintf(stderr,"DEBUG: Language is %s (%d) %s/%s\n"'
+line 1140:9 no viable alternative at input '("lang_prefixes[%d] is \"%s\"\n"'
+line 1143:2 no viable alternative at input 'ndifreturn'
+line 1160:9 no viable alternative at input '("lang %p, locale %p\n"'
+line 1164:2 no viable alternative at input 'ndifif'
+line 1189:0 no viable alternative at input 'ndif'
+   im.c
+line 52:0 token recognition error at: '#if'
+line 54:0 token recognition error at: '#e'
+line 103:0 token recognition error at: '#if'
+line 105:0 token recognition error at: '#e'
+line 567:26 token recognition error at: '#''
+line 567:28 mismatched input ')' expecting <EOF>
+line 615:0 token recognition error at: '#if'
+line 616:0 token recognition error at: '#if'
+line 621:0 token recognition error at: '#e'
+line 622:0 token recognition error at: '#e'
+line 782:0 token recognition error at: '#if'
+line 784:0 token recognition error at: '#e'
+line 936:0 token recognition error at: '#if'
+line 938:0 token recognition error at: '#e'
+line 1022:0 token recognition error at: '#if'
+line 1024:0 token recognition error at: '#e'
+line 1029:0 token recognition error at: '#if'
+line 1031:0 token recognition error at: '#e'
+line 1055:0 token recognition error at: '#if'
+line 1057:0 token recognition error at: '#e'
+line 1065:0 token recognition error at: '#if'
+line 1067:0 token recognition error at: '#e'
+line 1075:0 token recognition error at: '#if'
+line 1077:0 token recognition error at: '#e'
+line 1087:0 token recognition error at: '#if'
+line 1089:0 token recognition error at: '#e'
+line 1155:0 token recognition error at: '#if'
+line 1157:0 token recognition error at: '#e'
+line 1241:0 token recognition error at: '#if'
+line 1243:0 token recognition error at: '#e'
+line 1248:0 token recognition error at: '#if'
+line 1250:0 token recognition error at: '#e'
+line 1274:0 token recognition error at: '#if'
+line 1276:0 token recognition error at: '#e'
+line 1284:0 token recognition error at: '#if'
+line 1286:0 token recognition error at: '#e'
+line 1294:0 token recognition error at: '#if'
+line 1296:0 token recognition error at: '#e'
+line 1306:0 token recognition error at: '#if'
+line 1308:0 token recognition error at: '#e'
+line 1374:0 token recognition error at: '#if'
+line 1376:0 token recognition error at: '#e'
+line 1463:0 token recognition error at: '#if'
+line 1465:0 token recognition error at: '#e'
+line 1470:0 token recognition error at: '#if'
+line 1472:0 token recognition error at: '#e'
+line 1496:0 token recognition error at: '#if'
+line 1498:0 token recognition error at: '#e'
+line 1506:0 token recognition error at: '#if'
+line 1508:0 token recognition error at: '#e'
+line 1516:0 token recognition error at: '#if'
+line 1518:0 token recognition error at: '#e'
+line 1528:0 token recognition error at: '#if'
+line 1530:0 token recognition error at: '#e'
+line 1621:0 token recognition error at: '#if'
+line 1623:0 token recognition error at: '#e'
+line 1709:0 token recognition error at: '#if'
+line 1711:0 token recognition error at: '#e'
+line 1727:0 token recognition error at: '#if'
+line 1729:0 token recognition error at: '#e'
+line 1740:0 token recognition error at: '#if'
+line 1742:0 token recognition error at: '#e'
+line 1752:0 token recognition error at: '#if'
+line 1754:0 token recognition error at: '#e'
+line 1766:0 token recognition error at: '#if'
+line 1768:0 token recognition error at: '#e'
+line 1779:0 token recognition error at: '#if'
+line 1781:0 token recognition error at: '#e'
+line 1794:0 token recognition error at: '#if'
+line 1796:0 token recognition error at: '#e'
+line 1804:0 token recognition error at: '#if'
+line 1806:0 token recognition error at: '#e'
+line 1814:0 token recognition error at: '#if'
+line 1816:0 token recognition error at: '#e'
+line 1826:0 token recognition error at: '#if'
+line 1828:0 token recognition error at: '#e'
+line 1877:0 token recognition error at: '#if'
+line 1881:0 token recognition error at: '#e'
+   macos.c
+   onscreen_keyboard.c
+line 50:0 token recognition error at: '#if'
+line 52:0 token recognition error at: '#e'
+line 54:0 token recognition error at: '#if'
+line 84:0 token recognition error at: '#e'
+line 114:0 token recognition error at: '#if'
+line 116:0 token recognition error at: '#e'
+line 185:0 token recognition error at: '#if'
+line 187:0 token recognition error at: '#e'
+line 239:0 token recognition error at: '#if'
+line 241:0 token recognition error at: '#e'
+line 248:0 token recognition error at: '#if'
+line 250:0 token recognition error at: '#e'
+line 255:0 token recognition error at: '#if'
+line 257:0 token recognition error at: '#e'
+line 270:0 token recognition error at: '#if'
+line 272:0 token recognition error at: '#e'
+line 363:0 token recognition error at: '#if'
+line 365:0 token recognition error at: '#e'
+line 382:0 token recognition error at: '#if'
+line 384:0 token recognition error at: '#e'
+line 391:0 token recognition error at: '#if'
+line 393:0 token recognition error at: '#e'
+line 405:0 token recognition error at: '#if'
+line 407:0 token recognition error at: '#e'
+line 724:0 token recognition error at: '#if'
+line 726:0 token recognition error at: '#e'
+line 729:0 token recognition error at: '#if'
+line 737:0 token recognition error at: '#if'
+line 740:0 token recognition error at: '#e'
+line 743:0 token recognition error at: '#if'
+line 745:0 token recognition error at: '#e'
+line 756:0 token recognition error at: '#if'
+line 758:0 token recognition error at: '#e'
+line 779:0 token recognition error at: '#e'
+line 1616:0 token recognition error at: '#if'
+line 1618:0 token recognition error at: '#e'
+line 1641:0 token recognition error at: '#if'
+line 1644:0 token recognition error at: '#e'
+line 1729:0 token recognition error at: '#if'
+line 1731:0 token recognition error at: '#e'
+line 1742:0 token recognition error at: '#if'
+line 1744:0 token recognition error at: '#e'
+line 1781:0 token recognition error at: '#if'
+line 1783:0 token recognition error at: '#e'
+line 1791:0 token recognition error at: '#if'
+line 1793:0 token recognition error at: '#e'
+line 115:9 no viable alternative at input '("w %i, h %i\n"'
+line 186:9 no viable alternative at input '("load_layout %s\n"'
+line 240:17 no viable alternative at input '("layout found: %s\n"'
+line 249:17 no viable alternative at input '("keymap found: %s\n"'
+line 256:17 no viable alternative at input '("composemap found: %s\n"'
+line 271:13 no viable alternative at input '("key %s, value %s\n"'
+line 364:17 no viable alternative at input '("w %i, h %i\n"'
+line 383:17 no viable alternative at input '("linefont %s\n"'
+line 385:23 no viable alternative at input 'sscanf(line,"%s %s"'
+line 392:17 no viable alternative at input '("linefont %s\n"'
+line 394:23 no viable alternative at input 'sscanf(line,"%s %i %i %i"'
+line 406:17 no viable alternative at input '("linefont %s\n"'
+line 408:23 no viable alternative at input 'sscanf(line,"%s %i %i %i"'
+line 725:25 no viable alternative at input '(layout->'
+line 727:0 no viable alternative at input 'ndif}'
+line 738:9 no viable alternative at input '("%ls, "'
+line 741:2 no viable alternative at input 'ndifif'
+line 744:13 no viable alternative at input '("result %ls\n"'
+line 746:6 no viable alternative at input 'ndifreturn'
+line 757:9 no viable alternative at input '("%s"'
+line 760:2 no viable alternative at input 'ndiffor'
+line 1617:9 no viable alternative at input '("list: %s\n"'
+line 1620:7 no viable alternative at input 'ndifevent.'
+line 1642:17 no viable alternative at input '("auxlist: %s\n"'
+line 1646:10 no viable alternative at input 'ndifif'
+line 1730:13 no viable alternative at input '("wkeysym %ls %i\n\n"'
+line 1734:44 no viable alternative at input 'get_composed_keysym(keyboard,keyboard->'
+line 1743:17 no viable alternative at input '("keysym found %ls\n"'
+line 1782:21 no viable alternative at input '("compose sequence resetted\n"'
+line 1784:28 no viable alternative at input 'set_key(NULL,&'
+line 1792:21 no viable alternative at input '("still composing\n"'
+   pixels.c
+   playsound.c
+line 28:0 token recognition error at: '#if'
+line 30:0 token recognition error at: '#e'
+line 53:0 token recognition error at: '#if'
+line 58:0 token recognition error at: '#if'
+line 62:0 token recognition error at: '#e'
+line 109:0 token recognition error at: '#if'
+line 112:0 token recognition error at: '#e'
+line 116:0 token recognition error at: '#e'
+line 59:13 no viable alternative at input '("playsound #%d in channel %d, pos (%d,%d), %soverride, ptr=%p\n"'
+line 63:6 no viable alternative at input 'ndifif'
+line 110:17 no viable alternative at input '("Panning of sound #%d in channel %d, left=%d, right=%d\n"'
+line 113:37 no viable alternative at input 'Mix_SetPanning(chan,left,('
+line 117:0 no viable alternative at input 'ndif}'
+   postscript_print.c
+error en file -> tuxpaint-0.9.24\src\postscript_print.c
+   progressbar.c
+   rgblinear.c
+   tuxpaint.c
+error en file -> tuxpaint-0.9.24\src\tuxpaint.c
+   win32_dirent.c
+   win32_print.c
+tuxpaint-0.9.24\src\manpage
+tuxpaint-0.9.24\src\mouse
+tuxpaint-0.9.24\src\mouse\16x16
+tuxpaint-0.9.24\src\po
+tuxpaint-0.9.24\stamps
+tuxpaint-0.9.24\stamps\cartoon
+tuxpaint-0.9.24\stamps\cartoon\tux
+tuxpaint-0.9.24\starters
+tuxpaint-0.9.24\templates
+tuxpaint-0.9.24\visualc
+tuxpaint-0.9.24\win32
+tuxpaint-0.9.24\win32\etc
+tuxpaint-0.9.24\win32\etc\fonts
+tuxpaint-0.9.24\win32\etc\fonts\conf.avail
+tuxpaint-0.9.24\win32\etc\fonts\conf.d
+tuxpaint-0.9.24\win32\etc\gtk-2.0
+tuxpaint-0.9.24\win32\etc\pango
+tuxpaint-0.9.24\win32\libdocs
+tuxpaint-0.9.24\win32\libdocs\fltk
+tuxpaint-0.9.24\win32\libdocs\gettext
+tuxpaint-0.9.24\win32\libdocs\iconv
+tuxpaint-0.9.24\win32\libdocs\jpeg
+tuxpaint-0.9.24\win32\libdocs\libpng
+tuxpaint-0.9.24\win32\libdocs\sdl
+tuxpaint-0.9.24\win32\libdocs\sdl\sdl
+tuxpaint-0.9.24\win32\libdocs\sdl\sdl_image
+tuxpaint-0.9.24\win32\libdocs\sdl\sdl_mixer
+tuxpaint-0.9.24\win32\libdocs\sdl\sdl_ttf
+tuxpaint-0.9.24\win32\libdocs\zlib
